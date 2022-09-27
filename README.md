@@ -9,3 +9,7 @@ Pandas, Beautiful Soup, ChromeDriver Manager, Chrome Inspector Tool, and Splinte
 Deliverable 1 Titled mars_data_challenge_part_1.ipynb Is a jupyter notebook in which titles and preview text from Mars news articles were scraped. 
 
 Deliverable 2 Titled mars_data_challenge_part_2.ipynb Is a jupyter notebook in which Mars weather data was Scraped and analyzed, and plotted with brief summaries of each plot. It was then exported as a CSV titled MarsData.CSV
+
+The images folder contains screenshots of the questions answered and plotted in the 2nd deliverable. 
+
+A PDF of the updated RUBRIC of this assignment was included as well. I designed my assignment to meet the criteria of the updated rubric. 
